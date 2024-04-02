@@ -2,6 +2,7 @@
 using namespace std;
 
 struct DetailAlamat {
+    string desa;
 
 struct Mahasiswa {
     string nim;
