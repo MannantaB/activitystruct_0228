@@ -18,5 +18,8 @@
     <ClCompile Include="StruckturC1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="StrukturC2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
